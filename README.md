@@ -2,10 +2,13 @@
 Taller 2 materia Gestion de datos 
 
 Materia:        Materia Gestion de Datos
+
 Docente:        Fabian Peña
 
 Presentado por: 
 Norbey Marin
+y
+
 Bryan Leonardo Figueredo
 
 
