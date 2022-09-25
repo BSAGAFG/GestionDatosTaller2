@@ -6,10 +6,7 @@ Materia:        Materia Gestion de Datos
 Docente:        Fabian Peña
 
 Presentado por: 
-Norbey Marin
-y
-
-Bryan Leonardo Figueredo
+Norbey Marin y Bryan Leonardo Figueredo
 
 
 Taller No 2
