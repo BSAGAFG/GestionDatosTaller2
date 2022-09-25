@@ -6,7 +6,8 @@ Docente:        Fabian Peña
 Presentado por: Norbey Marin
 				Bryan Leonardo Figueredo
 
-Taller clase No 2
+
+Taller No 2
 
 
 A partir de una de las colecciones de datos de prueba cargadas en MongoDB Atlas
@@ -30,4 +31,20 @@ Puede hacerlo desde Python o desde cualquier herramienta que le
 permita conectarse a BigQuery y construir visualizaciones (p.e. Power BI
 o Tableau).
 
+El dataset seleccionado fue el siguiente:
+	DB_NAME = "sample_mflix"
+	COLLECTION = "movies"
 
+Este dataset contiene el listado de peliculas desde su inicio hasta el año 2015, donde se tiene un detalle de 
+los generos de las peliculas, el año de realease o lanzamiento, los directores, escritoes, titulo de las peliculas, cantidad
+de premios ganados y puntuacion de la critica entre otros datos.
+
+Seleccionamos este dataset ya que es posible generar una variedad de preguntas que pueden ayudar a las empresas de streaming a
+colocar en sus plataformas las peliculas en un orden de acuerdo a los criterios seleccionados por un cliente en particular.
+
+Pregunta No 1: ¿Muestre la tendencia de peliculas producidas por USA a partir del año 2000?
+Pregunta No 2: ¿Como se distribuyen los premios de las 10 peliculas mas ganadoras a partir del año 2000?
+Pregunta No 3: ¿Cual es la produccion de peliculas en las que solo han participado USA ó Colombia ó Mexico, a partir del año 2000?
+
+El detalle del proceso realizado para la conexion, extraccion, transformacion y cargue de las respuestas a las preguntas formuladas
+se encuentra en el archivo adjunto .py con sus respectivos comentarios.
